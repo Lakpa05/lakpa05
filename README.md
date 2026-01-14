@@ -41,15 +41,15 @@
 
 ## 📊 GitHub Stats
 
-![Lakpa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakpasherpa&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakpasherpa&layout=compact&theme=tokyonight)
+
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=lakpasherpa&theme=onestar&row=1)
 
 ---
+
+## 🔤 Most Used Languages
 
 ## 📫 Connect With Me
 🌐 Portfolio: https://lakpasherpa.com.np  

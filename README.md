@@ -53,7 +53,7 @@
 
 ## 📫 Connect With Me
 🌐 Portfolio: https://lakpasherpa.com.np  
-🐙 GitHub: https://github.com/lakpasherpa  
+🐙 GitHub: https://github.com/lakpa05  
 
 ---
 
